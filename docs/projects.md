@@ -112,6 +112,7 @@
 [Inclavare Containers](https://github.com/alibaba/inclavare-containers)|TOC Vote|[6/17/2021](https://docs.google.com/spreadsheets/d/1Nnh_usr0tSZxaUpxTusqeIqKxMmvuEViRkyO9e_Do40/edit#gid=1136111842)|[9/14/21](https://github.com/alibaba/inclavare-containers) | Sandbox
 [SuperEdge](https://github.com/superedge/superedge)|TOC Vote|[6/20/2021](https://docs.google.com/spreadsheets/d/1Nnh_usr0tSZxaUpxTusqeIqKxMmvuEViRkyO9e_Do40/edit#gid=1136111842)|[9/14/21](https://github.com/superedge/superedge) | Sandbox
 [Cilium](https://github.com/cilium/cilium)|TOC Vote|[10/13/2021](https://lists.cncf.io/g/cncf-toc/message/6164)|[10/13/21](https://lists.cncf.io/g/cncf-toc/message/6288) | Incubating
+[Dapr](https://github.com/dapr)|TOC Vote|[11/3/2021]https://lists.cncf.io/g/cncf-toc/message/6293)|[11/3/2021](https://lists.cncf.io/g/cncf-toc/message/6338) | Incubating
 
 
 ## Graduated Projects
@@ -152,7 +153,6 @@
 | [Flux](https://fluxcd.io)               | 7/15/19        | 3/11/21             | [Incubating](https://github.com/cncf/toc/pull/567) |
 | [KEDA](https://keda.sh/)                | 3/9/20         | 8/18/21             | [Incubating](https://github.com/cncf/toc/pull/622)
 | [Crossplane](https://www.crossplane.io) | 5/26/20        | 9/14/21             | [Incubating](https://github.com/cncf/toc/pull/620)
-
 
 ## Project Security Audits
 
