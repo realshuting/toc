@@ -25,9 +25,8 @@ Kyverno has achieved an [OpenSSF Best Practices Badge](https://www.bestpractices
 
 ### * Have completed an independent and third party security audit with results published of similar scope and quality as [this example](https://github.com/envoyproxy/envoy#security-audit) which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation.
 
-_(todo shuting): add the link to third-party security review_
 
-Kyverno completed a [fuzzing security audit](https://kyverno.io/blog/2023/09/06/kyverno-completes-fuzzing-security-audit/) and a thorough third-party security review. The security review is being conducted in collaboration with the [CNCF](https://www.cncf.io/), [Ada Logics](https://adalogics.com/) and [OSTIF](https://ostif.org/). 
+Kyverno completed a [fuzzing security audit](https://kyverno.io/blog/2023/09/06/kyverno-completes-fuzzing-security-audit/) and a thorough [third-party security review](https://main.kyverno.io/blog/2023/11/28/kyverno-completes-third-party-security-audit/). The security review is being conducted in collaboration with the [CNCF](https://www.cncf.io/), [Ada Logics](https://adalogics.com/) and [OSTIF](https://ostif.org/). 
 
 
 ### * Explicitly define a project governance and committer process. The committer process should cover the full committer lifecycle including onboarding and offboarding or emeritus criteria. This preferably is laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus committers.
