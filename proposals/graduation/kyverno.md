@@ -54,3 +54,8 @@ There is a list of organizations and users that have publicly shared how they ar
 * [Incubation Due Diligence](https://docs.google.com/document/d/18dWgOd2MUQz3RXI1R9vKntL3ULyZhOD1HEtijGOeaWg/edit#heading=h.amgfsmvtn6jy)
 
 ### * Address any concerns or recommendations from the TAG and/or TOC sponsor(s) from the DD Document
+
+* Request the official CNCF Kyverno Zoom account 
+
+An official Kyverno Zoom account has been requested from the CNCF and we have updated all hosted meeting links.
+
