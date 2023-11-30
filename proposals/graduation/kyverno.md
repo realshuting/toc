@@ -2,6 +2,12 @@
 
 _**Insert introduction. See previous proposals for examples. This section should address from a broad perspective why the project feels they are ready to graduation and can state any major accomplishments or milestones.**_
 
+Kyverno, an open-source project that was accepted as a CNCF Sandbox project in November 2020, and became Incubation in July 2022. Kyverno itself has 4,600+ [GitHub stars](https://github.com/kyverno/kyverno) and 358 [contributors](https://kyverno.devstats.cncf.io/d/52/new-contributors-table?orgId=1&from=now-5y&to=now&var-repogroup_name=kyverno) and 2,500+ members registered for the [Kyverno community Slack](https://main.kyverno.io/community/#slack-channel).
+
+## Introduction
+
+[Kyverno](https://kyverno.io/) is a Kubernetes policy engine that was created to validate, mutate, generate, and cleanup Kubernetes resources, and verify image signatures and artifacts to help secure the software supply chain. Kyverno policies are managed as Kubernetes resources and no new language is required to write policies.
+
 ## Graduation State Criteria
 
 ### * Have committers from at least two organizations.
