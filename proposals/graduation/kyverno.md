@@ -1,6 +1,8 @@
 # Kyverno Graduation Proposal
 
-[Kyverno](https://kyverno.io/) is a Kubernetes policy engine that was created to validate, mutate, generate, and cleanup  Kubernetes resources, including custom resources. Kyverno also offers built-in image verification rules to help secure the software supply chain by verifying signatures and attestations in either Sigstore Cosign and CNCF Notation formats. Kyverno policies are managed as Kubernetes resources and no new language is required to write policies. Kyverno also uses Kubernetes API objects for policy reporting and managing policy exceptions, making it a popular choice for platform teams using Kubernetes.
+[Kyverno](https://kyverno.io/) is a Kubernetes policy engine that was created to validate, mutate, generate, and cleanup  Kubernetes resources, including custom resources. Kyverno also offers built-in image verification rules to help secure the software supply chain by verifying signatures and attestations in either Sigstore Cosign and CNCF Notation formats. 
+
+Kyverno policies are managed as Kubernetes resources and no new language is required to write policies. Kyverno also uses Kubernetes API objects for policy reporting and managing policy exceptions, making it a popular choice for platform teams using Kubernetes.
 
 Kyverno was accepted as a CNCF Sandbox project in November 2020, and graduated to Incubating status in July 2022. Kyverno  has 4,600+ [GitHub stars](https://github.com/kyverno/kyverno) and 358 [contributors](https://kyverno.devstats.cncf.io/d/52/new-contributors-table?orgId=1&from=now-5y&to=now&var-repogroup_name=kyverno) and 2,500+ members registered for the [Kyverno community Slack](https://main.kyverno.io/community/#slack-channel). Kyverno is used in production and at scale by several end user organizations like Deutsche Telekom, Spotify, The US Department of Defense, LinkedIn, Vodafone, and Yahoo.
 
@@ -10,7 +12,7 @@ The project maintainers believe that Kyverno meets the requirements for Graduati
 
 ### * Have committers from at least two organizations.
 
-Kyverno has maintainers from 4 different companies, see [maintainers.md](https://github.com/kyverno/kyverno/blob/main/MAINTAINERS.md).
+Kyverno has maintainers from 4 different organizations, see [maintainers.md](https://github.com/kyverno/kyverno/blob/main/MAINTAINERS.md).
 
 1. Nirmata
 2. Stackwatch (Kubecost)
@@ -23,20 +25,15 @@ Kyverno has achieved an [OpenSSF Best Practices Badge](https://www.bestpractices
 
 ### * Have completed an independent and third party security audit with results published of similar scope and quality as [this example](https://github.com/envoyproxy/envoy#security-audit) which includes all critical vulnerabilities and all critical vulnerabilities need to be addressed before graduation.
 
-
-Kyverno completed a [fuzzing security audit](https://kyverno.io/blog/2023/09/06/kyverno-completes-fuzzing-security-audit/) and a  [third-party security review](https://kyverno.io/blog/2023/11/28/kyverno-completes-third-party-security-audit/). 
+Kyverno completed a [fuzzing security audit](https://kyverno.io/blog/2023/09/06/kyverno-completes-fuzzing-security-audit/) and a [third-party security review](https://kyverno.io/blog/2023/11/28/kyverno-completes-third-party-security-audit/). 
 
 The security review was conducted in collaboration with the [CNCF](https://www.cncf.io/), [Ada Logics](https://adalogics.com/) and [OSTIF](https://ostif.org/). The Kyverno project has addressed all issues from the audits.
-
-Kyverno maintains detailed [Security documentation](https://kyverno.io/docs/security/).
-
 
 ### * Explicitly define a project governance and committer process. The committer process should cover the full committer lifecycle including onboarding and offboarding or emeritus criteria. This preferably is laid out in a GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus committers.
 
 The Kyverno project governance policies are documented in [GOVERNANCE.md](https://github.com/kyverno/kyverno/blob/main/GOVERNANCE.md).
 
 The committer process in Kyverno is defined in project roles [Contributors](https://main.kyverno.io/community/#contributors) and [Code Owners](https://main.kyverno.io/community/#code-owners) documents, which includes the full committer lifecycle, onboarding, offboarding, and emeritus criteria. The committers are listed in [OWNERS.md](https://github.com/kyverno/kyverno/blob/main/OWNERS.md).
-
 
 ### * Explicitly define the criteria, process and offboarding or emeritus conditions for project maintainers; or those who may interact with the CNCF on behalf of the project. The list of maintainers should be preferably be stored in a MAINTAINERS.md file and audited at a minimum of an annual cadence.
 
