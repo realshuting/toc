@@ -4,7 +4,7 @@
 
 Kyverno policies are managed as Kubernetes resources and no new language is required to write policies. Kyverno also uses Kubernetes API objects for policy reporting and managing policy exceptions, making it a popular choice for platform teams using Kubernetes.
 
-Kyverno was accepted as a CNCF Sandbox project in November 2020, and graduated to Incubating status in July 2022. Kyverno  has 4,600+ [GitHub stars](https://github.com/kyverno/kyverno) and 358 [contributors](https://kyverno.devstats.cncf.io/d/52/new-contributors-table?orgId=1&from=now-5y&to=now&var-repogroup_name=kyverno) and 2,500+ members registered for the [Kyverno community Slack](https://main.kyverno.io/community/#slack-channel). Kyverno is used in production and at scale by several end user organizations like Deutsche Telekom, Spotify, The US Department of Defense, LinkedIn, Vodafone, and Yahoo.
+Kyverno was accepted as a CNCF Sandbox project in November 2020, and graduated to Incubating status in July 2022. Kyverno has 4,600+ [GitHub stars](https://github.com/kyverno/kyverno) and 358 [contributors](https://kyverno.devstats.cncf.io/d/52/new-contributors-table?orgId=1&from=now-5y&to=now&var-repogroup_name=kyverno) and 2,500+ members registered for the [Kyverno community Slack](https://main.kyverno.io/community/#slack-channel). Kyverno is used in production and at scale by several end user organizations like Deutsche Telekom, Spotify, The US Department of Defense, LinkedIn, Vodafone, and Yahoo.
 
 The project maintainers believe that Kyverno meets the requirements for Graduation status as detailed below:
 
@@ -54,7 +54,7 @@ The list of organizations and users that have publicly shared how they are using
 
 ### * Address any concerns or recommendations from the TAG and/or TOC sponsor(s) from the DD Document
 
-There are no outstanding issues from the Incubation level due dilegence. The only issue identified, and its resolution, are detailed below:
+There are no outstanding issues from the Incubation level due diligence. The only issue identified, and its resolution, are detailed below:
 
 #### Use the official CNCF Kyverno Zoom account 
 
