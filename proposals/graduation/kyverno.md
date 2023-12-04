@@ -58,5 +58,5 @@ There are no outstanding issues from the Incubation level due dilegence. The onl
 
 #### Use the official CNCF Kyverno Zoom account 
 
-An official Kyverno Zoom account was requested from the CNCF and we have updated all hosted meeting links to use this account.
+An official Kyverno Zoom account was requested from the CNCF and all project meetings now use this account.
 
